@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/square-app/static/css/main.efbccf4b.css",
+    "main.js": "/square-app/static/js/main.2972f65a.js",
+    "static/js/453.80c490e9.chunk.js": "/square-app/static/js/453.80c490e9.chunk.js",
+    "index.html": "/square-app/index.html",
+    "main.efbccf4b.css.map": "/square-app/static/css/main.efbccf4b.css.map",
+    "main.2972f65a.js.map": "/square-app/static/js/main.2972f65a.js.map",
+    "453.80c490e9.chunk.js.map": "/square-app/static/js/453.80c490e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efbccf4b.css",
+    "static/js/main.2972f65a.js"
+  ]
+}
